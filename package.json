@@ -1,5 +1,5 @@
 {
-  "name": "pokemon-bot",
+  "name": "new-folder-(2)",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@slack/bolt": "^4.7.3",
-    "axios": "^1.16.1",
+    "@slack/bolt": "^5.1.0",
+    "axios": "^1.20.0",
     "dotenv": "^17.4.2"
   }
 }
